@@ -1,0 +1,7 @@
+README.md
+setup.py
+routine_generator.egg-info/PKG-INFO
+routine_generator.egg-info/SOURCES.txt
+routine_generator.egg-info/dependency_links.txt
+routine_generator.egg-info/requires.txt
+routine_generator.egg-info/top_level.txt
